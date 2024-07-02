@@ -1,0 +1,15 @@
+/Users/danieloliveira/Desktop/github/CSharp/bin/Debug/net8.0/CSharp
+/Users/danieloliveira/Desktop/github/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/Users/danieloliveira/Desktop/github/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/Users/danieloliveira/Desktop/github/CSharp/bin/Debug/net8.0/CSharp.dll
+/Users/danieloliveira/Desktop/github/CSharp/bin/Debug/net8.0/CSharp.pdb
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.sourcelink.json
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.dll
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.pdb
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/Users/danieloliveira/Desktop/github/CSharp/obj/Debug/net8.0/ref/CSharp.dll

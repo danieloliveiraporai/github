@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F01EAEAD-B7D0-46C1-A819-0038A28F8585}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Daniel/protobuf.proto">
+    <Files>
+      <File FileName="Daniel/protobuf.proto" Line="146" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Daniel" expanded="True">
+            <Node name="Daniel">
+              <Node name="protobuf.proto" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Daniel PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
